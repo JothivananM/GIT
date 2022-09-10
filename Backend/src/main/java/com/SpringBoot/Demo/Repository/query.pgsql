@@ -1,0 +1,1 @@
+SELECT u.employee_table_id as id, u.employee_name as name, u.employee_code as employeeCode FROM user_details u
